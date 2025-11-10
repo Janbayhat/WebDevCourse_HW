@@ -6,6 +6,17 @@ body {
   text-align: center;
 }
 
+.bluewhite {
+  color:white;
+  background-color: blue;
+}
+.highlight{
+  font-size:x-large;
+  background-color: aquamarine;
+  color: darkblue;
+  font-weight: bold;
+}
+
 h1 {
   color: #2c3e50;
   margin-bottom: 20px;
